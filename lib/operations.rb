@@ -3,7 +3,7 @@ if speed > 40 < 60
   return "safe"
 else
   return "unsafe"
-  
+end
 end
 
 
